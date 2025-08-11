@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ashik/codes/breast_cancer_with_mlflow/mlruns/108904584972869313/fa6448d5d9dd4024ad8ad2c6ef696b1e/artifacts
+end_time: 1754903309412
+entry_point_name: ''
+experiment_id: '108904584972869313'
+lifecycle_stage: active
+run_id: fa6448d5d9dd4024ad8ad2c6ef696b1e
+run_name: resilient-smelt-550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754903306455
+status: 3
+tags: []
+user_id: ashik

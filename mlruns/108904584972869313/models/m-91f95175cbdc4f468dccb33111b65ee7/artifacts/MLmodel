@@ -1,0 +1,22 @@
+artifact_path: file:///home/ashik/codes/breast_cancer_with_mlflow/mlruns/108904584972869313/models/m-91f95175cbdc4f468dccb33111b65ee7/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.2.0
+model_id: m-91f95175cbdc4f468dccb33111b65ee7
+model_size_bytes: 135645
+model_uuid: m-91f95175cbdc4f468dccb33111b65ee7
+prompts: null
+run_id: dcfecbba7055411b8dd045968c6fe8b0
+utc_time_created: '2025-08-11 09:08:36.391330'

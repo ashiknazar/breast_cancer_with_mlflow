@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ashik/codes/breast_cancer_with_mlflow/mlruns/108904584972869313/a1991c531cdc461f91e406d545d4f36e/artifacts
+end_time: 1754903320691
+entry_point_name: ''
+experiment_id: '108904584972869313'
+lifecycle_stage: active
+run_id: a1991c531cdc461f91e406d545d4f36e
+run_name: intrigued-bee-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754903318503
+status: 3
+tags: []
+user_id: ashik

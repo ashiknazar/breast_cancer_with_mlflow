@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ashik/codes/breast_cancer_with_mlflow/mlruns/108904584972869313/4dcf406e9d754a44983031b8f75b0993/artifacts
+end_time: 1754903325352
+entry_point_name: ''
+experiment_id: '108904584972869313'
+lifecycle_stage: active
+run_id: 4dcf406e9d754a44983031b8f75b0993
+run_name: respected-crow-303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754903323048
+status: 3
+tags: []
+user_id: ashik

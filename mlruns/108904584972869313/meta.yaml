@@ -1,0 +1,6 @@
+artifact_location: file:///home/ashik/codes/breast_cancer_with_mlflow/mlruns/108904584972869313
+creation_time: 1754903306399
+experiment_id: '108904584972869313'
+last_update_time: 1754903306399
+lifecycle_stage: active
+name: genetic_rf_tuning

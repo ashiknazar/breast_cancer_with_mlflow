@@ -1,0 +1,10 @@
+artifact_location: file:///home/ashik/codes/breast_cancer_with_mlflow/mlruns/108904584972869313/models/m-90c2ae6cfeb243b6a75d5deb36d1fbac/artifacts
+creation_timestamp: 1754903323245
+experiment_id: '108904584972869313'
+last_updated_timestamp: 1754903325096
+model_id: m-90c2ae6cfeb243b6a75d5deb36d1fbac
+model_type: null
+name: model
+source_run_id: 4dcf406e9d754a44983031b8f75b0993
+status: 2
+status_message: null

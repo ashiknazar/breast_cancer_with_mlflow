@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ashik/codes/breast_cancer_with_mlflow/mlruns/108904584972869313/8eb83f7534d1449088cd44d702cb7966/artifacts
+end_time: 1754903316263
+entry_point_name: ''
+experiment_id: '108904584972869313'
+lifecycle_stage: active
+run_id: 8eb83f7534d1449088cd44d702cb7966
+run_name: upset-pig-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754903314006
+status: 3
+tags: []
+user_id: ashik

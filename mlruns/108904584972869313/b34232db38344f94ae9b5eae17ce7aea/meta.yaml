@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ashik/codes/breast_cancer_with_mlflow/mlruns/108904584972869313/b34232db38344f94ae9b5eae17ce7aea/artifacts
+end_time: 1754903313996
+entry_point_name: ''
+experiment_id: '108904584972869313'
+lifecycle_stage: active
+run_id: b34232db38344f94ae9b5eae17ce7aea
+run_name: chill-perch-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754903311797
+status: 3
+tags: []
+user_id: ashik

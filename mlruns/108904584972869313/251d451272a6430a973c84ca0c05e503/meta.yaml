@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ashik/codes/breast_cancer_with_mlflow/mlruns/108904584972869313/251d451272a6430a973c84ca0c05e503/artifacts
+end_time: 1754903311785
+entry_point_name: ''
+experiment_id: '108904584972869313'
+lifecycle_stage: active
+run_id: 251d451272a6430a973c84ca0c05e503
+run_name: dashing-horse-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754903309422
+status: 3
+tags: []
+user_id: ashik
